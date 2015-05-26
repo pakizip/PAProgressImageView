@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CC66D3D0-28DF-4815-9E48-698FBE77C13D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PAProgressImageViewTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>823B0B079A90ADBA81CA64CF16868383A571C7FC</key>
+		<string>https://github.com/pakizip/PAProgressImageView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PAProgressImageViewTest.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>823B0B079A90ADBA81CA64CF16868383A571C7FC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/pakizip/PAProgressImageView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>823B0B079A90ADBA81CA64CF16868383A571C7FC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>823B0B079A90ADBA81CA64CF16868383A571C7FC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PAProgressImageView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
